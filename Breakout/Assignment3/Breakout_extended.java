@@ -1,8 +1,7 @@
 /*
  * File: Breakout.java
  * -------------------
- * Name: JAYESH PATIL
- * Section Leader: JOSH VALDEZ
+ * Name: Snehal PATIL
  * 
  * This file will eventually implement the game of Breakout.
  * Features implemented:
